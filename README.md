@@ -13,15 +13,15 @@ cybersecurity concepts such as encryption, password hashing, and secure storage.
 - Password generator
 
 ## Technologies
-Python
-bcrypt
-cryptography
-JSON storage
+- Python
+- bcrypt
+- cryptography
+- JSON storage
 
 ## Project Structure
-main.py
-encryption.py
-database.py
-password_checker.py
-logs/login_logs.txt
-README.md
+- main.py
+- encryption.py
+- database.py
+- password_checker.py
+- logs/login_logs.txt
+- README.md
