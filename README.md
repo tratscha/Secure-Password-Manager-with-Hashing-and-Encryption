@@ -1,6 +1,6 @@
 # SecureVault – Python Password Manager
 
-## Description
+## Description 
 SecureVault is a simple password manager built in Python that demonstrates
 cybersecurity concepts such as encryption, password hashing, and secure storage.
 
